@@ -1,0 +1,61 @@
+experiment2_input
+I'm so happy that everything is working out for you. | happy
+it's sad that the trip had to be cancelled. | sad
+the tone was neutral, devoid of sentiment | neutral
+they were filled with joy when their first child was born. | joy
+tiredness, loss of appetite, and sleeping problems are all classic symptoms of depression. | depression
+he seemed perfectly normal to me. | normal
+children normally feel a lot of anxiety about their first day at school. | anxiety
+I think I'm in love with her. | love
+I hate it when you do that. | hate
+he's really angry with me for upsetting Sophie. | angry
+she seemed relaxed and in control of the situation. | relaxed
+I feel a little uneasy about asking her to do me such a big favour. | uneasy
+strange dreams and nightmares oppressed him. | nightmares
+few things in this world give me more pleasure than a long bath. | pleasure
+the drugs did nothing to alleviate her suffering. | suffering
+everything's just fine, thanks. | fine
+
+word_pairs
+happy, neutral
+sad, neutral
+joy, normal
+depression, normal
+love, neutral
+hate, neutral
+relaxed, neutral
+uneasy, neutral
+pleasure, neutral
+suffering, neutral
+joy, anxiety
+depression, anxiety
+love, angry
+hate, angry
+relaxed, nightmares
+uneasy, nightmares
+relaxed, anxiety
+uneasy, anxiety
+pleasure, anxiety
+suffering, anxiety
+
+experiment3_input
+tiredness, loss of appetite, and sleeping problems are all classic symptoms of depression. | depression
+depression isn't sadness. It's exhaustion, no motivation, numbness, no desire to do what you once loved, it's isolation, fear, negative thoughts, anger, disappointment, irrationality | depression
+real depression is when you stop loving the things you loved. | depression
+if republicans deliberately tank the economy it will be the biggest economic crisis since the Great Depression. | Depression
+this must be post-concert depression because I really don't feel like doing anything today | depression
+children normally feel a lot of anxiety about their first day at school. | anxiety
+anxiety is the most draining thing ever wish I could just switch off | anxiety
+living with anxiety is so hard. My mind and my thoughts literally go against me | anxiety
+what rhymes with anxiety? | anxiety
+outer banks gives me so much anxiety i love it | anxiety
+strange dreams and nightmares oppressed him. | nightmares
+I had one of the most terrifying nightmares last night and now I'm afraid to fall asleep | nightmares
+I've been having nightmares (not the scary kind but more like suffocating and super fucking sad that I woke up in the middle of the night crying) and now I'm too scared to go back to sleep ka | nightmares
+dreams and nightmares the most overrated song of all time | nightmares
+pretty skies from the lab over the last couple of days making me feel better about my western blot nightmares! | nightmares
+
+single_words
+depression
+anxiety
+nightmares
