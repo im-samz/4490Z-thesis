@@ -26,5 +26,5 @@ experiment2.py will download the GloVe, fasttext, and word2vec models locally.
 This will consume a few gigabyes in memory.
 
 # Changelog
-March 24, 2023 - uploaded the python scripts
-March 13, 2023 - uploaded the raw data from the experiment output
+- March 24, 2023 - uploaded the python scripts
+- March 13, 2023 - uploaded the raw data from the experiment output
